@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957990871662",
+    "project_id": "lecafe-14464",
+    "storage_bucket": "lecafe-14464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957990871662:android:f2a62222a7b6958aae3c7f",
+        "android_client_info": {
+          "package_name": "com.example.lecafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXfUYsIG6Y4np0L5oDMhFyalk642jmuhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
